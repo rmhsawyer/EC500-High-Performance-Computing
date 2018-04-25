@@ -1,0 +1,38 @@
+------------------------------------
+Project_1_Clifford_Dillon_Tranghese/
+* Parallelizting 2D Convolutions of GPUs
+
+------------------------------------
+Project_2_Bandara_Graziano/
+* MD Improving Neighbor Map 
+EC500 Project Proposal.pdf
+Michael  Graziano and Sahan Bandara     
+https://github.com/GrazianoMJ/Molecular_Dynamics
+
+------------------------------------
+Project_3_Li_Xiao_Zhang/
+* Heat Flow with Jacobi, MG and CG
+Zheran Li, Ziao Ling and Yixue Zhang
+
+------------------------------------
+Project_4_Ren_Wei/
+* Support VEctor Machie (SVM) algorithm for Machine Learning
+
+------------------------------------
+Project_5_Klien_Sanka/
+*Simulating Fluid Flow in Microfluidic Components 
+EC500 Prsentaton.pptx
+Joshua Klein and Radhakrishna Sanka
+
+------------------------------------
+Project_6_Cannon_Dupre/
+* Saint Venant Equation 
+
+------------------------------------
+Project_7_Ha_Haldar/
+2E FEM Spectrum Fidelity
+*  Project Presentation. pdf   
+Quang Ha and Anubhab
+
+
+------------------------------------
